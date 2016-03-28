@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":react-native-jpush" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/../../../android" external.system.id="GRADLE" external.system.module.group="MaMaProject" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":react-native-jpush-plugin" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/../../../android" external.system.id="GRADLE" external.system.module.group="PushDemo2" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
-        <option name="GRADLE_PROJECT_PATH" value=":react-native-jpush" />
+        <option name="GRADLE_PROJECT_PATH" value=":react-native-jpush-plugin" />
       </configuration>
     </facet>
     <facet type="android" name="Android">
@@ -24,7 +24,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/build/intermediates/classes/debug" />
     <output-test url="file://$MODULE_DIR$/build/intermediates/classes/androidTest/debug" />
     <exclude-output />
@@ -91,8 +91,8 @@
     <orderEntry type="library" exported="" name="okio-1.6.0" level="project" />
     <orderEntry type="library" exported="" name="stetho-okhttp-1.2.0" level="project" />
     <orderEntry type="library" exported="" name="okhttp-2.5.0" level="project" />
-    <orderEntry type="library" exported="" name="jsr305-3.0.0" level="project" />
     <orderEntry type="library" exported="" name="stetho-1.2.0" level="project" />
+    <orderEntry type="library" exported="" name="jsr305-3.0.0" level="project" />
     <orderEntry type="library" exported="" name="jackson-core-2.2.3" level="project" />
     <orderEntry type="library" exported="" name="fbcore-0.8.1" level="project" />
     <orderEntry type="library" exported="" name="commons-cli-1.2" level="project" />
