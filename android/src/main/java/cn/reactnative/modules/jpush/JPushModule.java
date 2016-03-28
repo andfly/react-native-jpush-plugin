@@ -222,7 +222,7 @@ public class JPushModule extends ReactContextBaseJavaModule {
             boolean isAppRunning = _isApplicationRunning(context);
 //            Log.e("onReceive", isAppRunning ? "running" : "not running");
 
-            if (isAppRunning) {
+            if (gModules != null) {
                 JPushModule.onReceive(context, intent);
             }
             else {
